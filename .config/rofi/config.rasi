@@ -1,0 +1,15 @@
+configuration {
+font: "Google Sans 16";
+separator-style: none;
+hide-scrollbar: true;
+fullscreen: false;
+line-margin: 0;
+eh: 1;
+bw: 4;
+width: 30;
+location: 0;
+columns: 1;
+padding: 15;
+lines: 10;
+
+}
